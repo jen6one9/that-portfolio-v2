@@ -1,11 +1,15 @@
-card {
-    margin-top: 3%;
-    padding-top: 3%;
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-bottom: 3%;
-    padding-inline: 3%;
-
+.brand-logo {
     
+   
+    padding-left: 3%;
+    margin-left: 3%
 
-}
+    }
+
+#content {
+     
+    padding-left: 3%;
+    margin-left: 3%;
+    width: 80%
+    
+        }
