@@ -6,10 +6,10 @@ As a coding bootcamp student, I want to update my portfolio to showcase the prog
 
 
 ## Preview
-![alt-text](xxxxxx.GIF)
+![alt-text](portfolio.GIF)
 
 ## Deployed Site Link
-Here's the link to my app: xxxxx
+Here's the link to my app: https://jen6one9.github.io/that-portfolio-v2/.
 
 ## Acknowledgements
 This application makes use of the following third party library: Unsplash.com.
