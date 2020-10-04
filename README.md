@@ -1,5 +1,5 @@
 # that-portfolio-v2
-Updated portfolio featuring project 1 and two exemplary homework assignments.
+Updated portfolio featuring successful Project 1 (Covid Danger Data) and work in progress.
 ## User Story
 As a coding bootcamp student, I want to update my portfolio to showcase the progress in my coding journey thus far. 
 
