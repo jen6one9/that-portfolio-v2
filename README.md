@@ -7,6 +7,7 @@ As a coding bootcamp student, I want to update my portfolio to showcase the prog
 
 ## Preview
 ![alt-text](portfolio.GIF)
+
 ![alt-text](portfolio2.GIF)
 
 ## Deployed Site Link
